@@ -1,0 +1,46 @@
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe.config
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.pdb
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Form1.resources
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Properties.Resources.resources
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.exe
+C:\Users\Jason\Desktop\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.pdb
+F:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe.config
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.exe
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.pdb
+F:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe
+F:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.pdb
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csprojResolveAssemblyReference.cache
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Form1.resources
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Properties.Resources.resources
+F:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.GenerateResource.Cache
+G:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe.config
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.exe
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.pdb
+G:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe
+G:\Free Time\TileEnemies\TileEnemies\bin\Debug\TileEnemies.pdb
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csprojResolveAssemblyReference.cache
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Form1.resources
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Properties.Resources.resources
+G:\Free Time\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.GenerateResource.Cache
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe.config
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.exe
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.pdb
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\bin\Debug\TileEnemies.pdb
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Form1.resources
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Properties.Resources.resources
+C:\Users\Jacky\Downloads\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.GenerateResource.Cache
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe.config
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\bin\Debug\TileEnemies.exe
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\bin\Debug\TileEnemies.pdb
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csprojAssemblyReference.cache
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Form1.resources
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.Properties.Resources.resources
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.GenerateResource.cache
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.exe
+C:\Users\Jacky\Downloads\TileEnemies_fixed_select_version\TileEnemies\TileEnemies\obj\Debug\TileEnemies.pdb
